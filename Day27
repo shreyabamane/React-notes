@@ -1,0 +1,10 @@
+FAQ: Can we access and use a function component in class component?
+Ans: Yes. It is not directly accessed in class. It is from "render()" method.
+
+
+                    Component Life Cycle Hooks
+- Every component class have various phases from start to end.
+- The time when you request a component initiates start of component and the time when you change to another component will end the component.
+    a) Mount
+    b) Update
+    c) Unmount
